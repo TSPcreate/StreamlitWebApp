@@ -5,7 +5,7 @@ import pydeck as pdk
 import plotly.express as px
 
 
-URL = r"C:\Users\allno\Project\Motor_Vehicle_Collisions.csv"
+URL = r"https://github.com/TSPcreate/StreamlitWebApp/blob/main/Motor_Vehicle_Collisions.csv"
 
 st.title("Motor vehicle Collisions in New York City")
 st.markdown("This is a simple Streamlit app to display data on vehicle collisions.")
